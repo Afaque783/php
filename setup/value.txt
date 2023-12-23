@@ -1,0 +1,6 @@
+$date_time = date_create_from_format("Y-m-d\TH:i", $published_at);
+
+$db_host = "localhost";
+    $db_name = "mystore";
+    $db_user = "root";
+    $db_pass = "1234567890";
